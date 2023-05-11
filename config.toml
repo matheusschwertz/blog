@@ -1,6 +1,6 @@
-baseURL = "https://example.com"
+baseURL = "https://blogmatheusschwertz.netlify.app/"
 title   = "Hello Friend NG"
-languageCode = "en-us"
+languageCode = "pt-br"
 theme = "hello-friend-ng"
 
 PygmentsCodeFences = true
@@ -37,7 +37,7 @@ disableHugoGeneratorInject = false
   posts = "/posts/:year/:month/:title/"
 
 [author]
-  name = "Jane Doe"
+  name = "Matheus Schwertz"
 
 [blackfriday]
   hrefTargetBlank = true
