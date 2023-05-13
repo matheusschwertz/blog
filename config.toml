@@ -1,5 +1,5 @@
 baseURL = "https://blogmatheusschwertz.netlify.app/"
-title   = "Hello Friend NG"
+title   = "Diário de um estagiário"
 languageCode = "pt-br"
 theme = "hello-friend-ng"
 
@@ -61,7 +61,7 @@ disableHugoGeneratorInject = false
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "Hello"
+  homeSubtitle = "Olá"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
