@@ -174,11 +174,11 @@ disableHugoGeneratorInject = false
 
   [[params.social]]
     name = "github"
-    url  = "https://github.com/"
+    url  = "https://github.com/matheusschwertz"
 
   [[params.social]]
     name = "linkedin"
-    url  = "https://www.linkedin.com/"
+    url  = "https://www.linkedin.com/in/matheus-schwertz-dos-santos-90785219a/"
 
   [[params.social]]
     name = "stackoverflow"
