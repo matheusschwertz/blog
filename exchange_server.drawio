@@ -1,9 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2024-05-06T20:02:51.354Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="24.3.1" etag="4eN1aNE0TL6nHVtbS_GC" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-06T20:10:43.890Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="_6F-1BCT-XOTJC4-i_5X" version="24.3.1" type="github">
   <diagram name="Página-1" id="yOh9sMjBizH-W9K5ahnX">
-    <mxGraphModel>
+    <mxGraphModel dx="1114" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="lHX4E8iOJK5G_0-JD7cw-2" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.exchange_server;" vertex="1" parent="1">
+          <mxGeometry x="399" y="480" width="57" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="lHX4E8iOJK5G_0-JD7cw-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lHX4E8iOJK5G_0-JD7cw-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="654" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lHX4E8iOJK5G_0-JD7cw-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lHX4E8iOJK5G_0-JD7cw-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="174" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lHX4E8iOJK5G_0-JD7cw-3" value="Exchange Server 2019 (Licença Enterprise&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="294" y="538" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lHX4E8iOJK5G_0-JD7cw-6" value="Microsoft Office 2016" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#DF8C42;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.microsoft_office;" vertex="1" parent="1">
+          <mxGeometry x="144" y="700" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lHX4E8iOJK5G_0-JD7cw-7" value="Thunderbird" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/DarkGlass_Reworked/128x128/apps/thunderbird.png" vertex="1" parent="1">
+          <mxGeometry x="634" y="690" width="50" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
